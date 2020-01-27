@@ -1,0 +1,87 @@
+body{
+  margin: 0%;
+  padding: 0%;
+}
+.nav-bar{
+  list-style-type: none;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  padding: 0;
+  overflow: hidden;
+  background-image: linear-gradient(to right, red, yellow);
+  
+  
+}
+nav ul li {
+  float: left;
+}
+._pText{
+  font-size: 14px;
+}
+
+nav ul li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+nav ul li a:hover {
+  background-color: #111;
+}
+.page{
+  margin-left: auto;
+  margin-right: auto;
+  width: 600px;
+  position: center;
+  text-align: justify;
+  text-justify: inter-word;
+  
+}
+.img-text{
+  font-size: 10px;
+  font-style: italic;
+}
+.footer{
+    height: 30px;
+    background-image: linear-gradient(to right, red, yellow);
+    margin-left: auto;
+  margin-right: auto;
+  color: white;
+  text-align: center;
+}
+*{
+  padding: 0%;
+  margin: 0%;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  
+}
+.image{
+  margin-left: auto;
+  margin-right: auto;
+}
+.player{
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.button{
+  height:50px;
+    width:100px;
+    float:right;
+    margin-right: 15px;
+    margin-bottom: 15px;
+    margin-top: 15px;
+    text-align: center;
+    
+}
+.myTextArea{
+  text-align: left;
+}
+
+input{
+  width: 150px;
+  height: 25px;
+}
