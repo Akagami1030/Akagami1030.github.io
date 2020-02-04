@@ -1,2 +1,2 @@
 # MyProjects
-Een test-porjet om Github te begrijpen !-|,,|-!
+Een test-project om Github te begrijpen !-|,,|-!
